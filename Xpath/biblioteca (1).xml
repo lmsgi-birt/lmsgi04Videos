@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+  <libro>
+    <titulo>El hombre terminal</titulo>
+    <autor>Michael Crichton</autor>
+    <fechaPublicacion año="1972"/>
+  </libro>
+  <libro>
+    <titulo>Némesis</titulo>
+    <autor fechaNacimiento="15/09/1890">Agatha Christie</autor>
+    <fechaPublicacion año="1972"/>
+  </libro>
+  <libro>
+    <titulo>Diez negritos</titulo>
+    <autor fechaNacimiento="15/09/1890">Agatha Christie</autor>
+    <fechaPublicacion año="1939"/>
+  </libro>
+</biblioteca>

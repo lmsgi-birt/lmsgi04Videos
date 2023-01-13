@@ -1,0 +1,107 @@
+body{
+	background-color:#F0FFFF;
+	width:90%;
+	margin:0px auto;
+	text-align:center;
+	}
+
+
+/*Distribución de datos personales*/
+.caja_imagen{
+	float:left;
+	width:50%;
+	margin-top:20px;
+}
+
+.caja_datos{
+	float:right;
+	width:49%;
+	text-align:left;
+}
+/*Imagen de cabecera*/
+
+img{
+	width:40%;
+	margin-left:40%;
+	border-radius:999px;
+	border-color:#F0FFFF;
+}
+
+/*links y listas*/
+
+li{
+	line-height:30px;
+}
+
+.enlaces{
+	line-height: 50px;
+	text-decoration:none;
+	color:black;
+	
+}
+
+.enlaces:hover{
+	text-decoration:solid;
+	font-size: 20px;
+}
+
+/*Enlace de volver a la Home*/
+
+.volver{
+	display:block;
+	padding:50px 0px 50px 0px;
+	text-transform: uppercase;
+	font-size:20px;
+}
+
+.volver:hover{
+	font-size:25px;
+	text-decoration:solid:
+}
+
+/* Estilos de tablas*/
+
+table{
+	border-bottom: solid 1px black;
+	padding-bottom:35px;
+}
+.descripcion{
+	width:500px;
+	border-bottom: solid 1px black;
+	padding:0px;
+}
+
+.año{
+	width:250px;
+	border-bottom: solid 1px black;
+	padding:0px;
+}
+
+.cargo{
+	width:250px;
+	border-bottom: solid 1px black;
+	padding:0px;
+}
+
+td{
+
+	padding-top:35px;
+}
+
+td p{
+	text-align: left;
+}
+
+/*etiqueta span para resaltar texto descriptivo*/
+span{
+	text-decoration:underline;
+	font-height: auto;
+	color:gray;
+}
+
+
+
+
+
+
+	

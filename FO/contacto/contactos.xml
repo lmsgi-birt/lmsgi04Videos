@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Asociar una transformación XSLT -->
+<?xml-stylesheet type="text/xsl" href="contactos2.xsl"?>
+<agenda>
+  <propietario>
+    <nombre>Alma</nombre>
+    <apellidos>Lopez Teran</apellidos>
+  </propietario>
+
+  <contactos>
+    <persona id="p01">
+      <identificadores>
+        <nombre>Ines</nombre>
+        <apellidos>Lopez Perez</apellidos>
+      </identificadores>
+
+      <direccion>
+        <calle>El Ranchito 24, 6B</calle>
+        <localidad>Santander</localidad>
+        <cp>39006</cp>
+      </direccion>
+
+      <telefonos>
+        <movil>970123123</movil>
+      </telefonos>
+    </persona>
+
+    <persona id="p02">
+      <identificadores>
+        <nombre>Roberto</nombre>
+        <apellidos>Gutierrez Gomez</apellidos>
+      </identificadores>
+
+      <direccion>
+        <calle>El Marranito 4, 2F</calle>
+        <localidad>Santander</localidad>
+        <cp>39004</cp>
+      </direccion>
+
+      <telefonos>
+        <movil>970987456</movil>
+        <casa>942333323</casa>
+      </telefonos>
+    </persona>
+
+    <persona id="p03">
+      <identificadores>
+        <nombre>Juan</nombre>
+        <apellidos>Sanchez Martinez</apellidos>
+      </identificadores>
+
+      <direccion>
+        <calle>El Cangrejo 10, sn</calle>
+        <localidad>Torrelavega</localidad>
+        <cp>39300</cp>
+      </direccion>
+
+      <telefonos>
+        <movil>997564343</movil>
+        <casa>942987974</casa>
+        <trabajo>677899234</trabajo>
+      </telefonos>
+    </persona>
+
+      <persona id="p04">
+        <identificadores>
+          <nombre>Nerea</nombre>
+          <apellidos>Pipaon Velez de Mendizabal</apellidos>
+        </identificadores>
+  
+        <direccion>
+          <calle>Barrenkale 5, sn</calle>
+          <localidad>Bilbo</localidad>
+          <cp>39300</cp>
+        </direccion>
+  
+        <telefonos>
+          <movil>997565243</movil>
+          <casa>942958974</casa>
+          <trabajo>677899234</trabajo>
+        </telefonos>
+      </persona>
+      <persona id="p05">
+        <identificadores>
+          <nombre>Miren</nombre>
+          <apellidos>Jimenez Etxabe</apellidos>
+        </identificadores>
+  
+        <direccion>
+          <calle>Iturriotz 10, sn</calle>
+          <localidad>Torrelavega</localidad>
+          <cp>39300</cp>
+        </direccion>
+  
+        <telefonos>
+          <movil>997564343</movil>
+          <casa>942987974</casa>
+          <trabajo>677899234</trabajo>
+        </telefonos>
+      </persona>
+      <persona id="p06">
+        <identificadores>
+          <nombre>Josune</nombre>
+          <apellidos>Etxabe Zubizarreta</apellidos>
+        </identificadores>
+  
+        <direccion>
+          <calle>Gran vía 2</calle>
+          <localidad>Torrelavega</localidad>
+          <cp>39300</cp>
+        </direccion>
+  
+        <telefonos>
+          <movil>997564343</movil>
+          <casa>942987974</casa>
+          <trabajo>677899234</trabajo>
+        </telefonos>
+      </persona>
+      <persona id="p07">
+        <identificadores>
+          <nombre>Jorge</nombre>
+          <apellidos>Berria Otxandio</apellidos>
+        </identificadores>
+  
+        <direccion>
+          <calle>Nagusia 41</calle>
+          <localidad>Legutiano</localidad>
+          <cp>39300</cp>
+        </direccion>
+  
+        <telefonos>
+          <movil>997564343</movil>
+          <casa>942987974</casa>
+          <trabajo>677899234</trabajo>
+        </telefonos>
+      </persona>
+      <persona id="p08">
+        <identificadores>
+          <nombre>Victor</nombre>
+          <apellidos>Otalora Martinez</apellidos>
+        </identificadores>
+  
+        <direccion>
+          <calle>Durana 5</calle>
+          <localidad>Bergara</localidad>
+          <cp>25300</cp>
+        </direccion>
+  
+        <telefonos>
+          <movil>997564343</movil>
+          <casa>942987974</casa>
+          <trabajo>677899234</trabajo>
+        </telefonos>
+      </persona>
+      <persona id="p09">
+        <identificadores>
+          <nombre>Amaia</nombre>
+          <apellidos>Arenaza Aranzabal</apellidos>
+        </identificadores>
+  
+        <direccion>
+          <calle>Belorrieta 8</calle>
+          <localidad>Elorrio</localidad>
+          <cp>89300</cp>
+        </direccion>
+  
+        <telefonos>
+          <movil>997564343</movil>
+          <casa>942987974</casa>
+          <trabajo>677899234</trabajo>
+        </telefonos>
+      </persona>
+      <persona id="p10">
+        <identificadores>
+          <nombre>Nekane</nombre>
+          <apellidos>Vitoria Aranzabal</apellidos>
+        </identificadores>
+  
+        <direccion>
+          <calle>Uribide 89</calle>
+          <localidad>Gasteiz</localidad>
+          <cp>85600</cp>
+        </direccion>
+  
+        <telefonos>
+          <movil>997564343</movil>
+          <casa>942987974</casa>
+          <trabajo>677899234</trabajo>
+        </telefonos>
+      </persona>
+    
+  </contactos>
+</agenda>

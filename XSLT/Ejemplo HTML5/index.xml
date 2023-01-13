@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Asociar una transformación XSLT -->
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+
+<curriculum>
+	<datos-personales email="info@birt.eus" web="birt.eus">
+		<nombre>Aitor</nombre>
+		<apellido>Santano</apellido>
+		<direccion>Araba Kalea, 41</direccion>
+		<foto>foto.png</foto>
+	</datos-personales>
+	<experiencia-laboral>
+		<puesto>
+			<empresa nombre="Gureak Marketing">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</empresa>
+			<cargo>Programador Junior</cargo>
+			<fecha>2012 - 2013</fecha>
+		</puesto>
+		<puesto>
+			<empresa nombre="Ibermática">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</empresa>
+			<cargo>Programador Junior</cargo>
+			<fecha>2011 - 2012</fecha>
+		</puesto>
+		<puesto>
+			<empresa nombre="Kontraluz S.L">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</empresa>
+			<cargo>Auxiliar de fotografía</cargo>
+			<fecha>2010 - 2011</fecha>
+		</puesto>
+		<puesto>
+			<empresa nombre="Restaurante La Mina">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</empresa>
+			<cargo>Camarero</cargo>
+			<fecha>2009 - 2010</fecha>
+		</puesto>
+	</experiencia-laboral>
+</curriculum>
