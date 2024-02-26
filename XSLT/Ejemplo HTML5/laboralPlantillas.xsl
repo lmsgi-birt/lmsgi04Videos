@@ -1,14 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
-<xsl:output encoding="utf-8" method="html" doctype-system="about:legacy-doctype" />
+<xsl:output encoding="utf-8" method="html" doctype-system="about:legacy-compat" />
 
 <!-- Plantilla principal: intercalamos código HTML con datos XML -->
 <xsl:template match="/curriculum" >
 
 <html lang="es">
     <head>
-        <meta charset="utf-8" />
         <meta name="description" content="Ejemplo de HTML5" />
         <meta name="keywords" content="HTML5, CSS3, JavaScript" />
         <title>Tarea de evaluación 1 - Experiencia laboral</title>
